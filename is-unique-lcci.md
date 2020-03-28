@@ -18,7 +18,7 @@ Input: s = "abc"
 Output: true
 ```
 ## Solution:
-```
+```javascript
 /**
  * @param {string} astr
  * @return {boolean}
